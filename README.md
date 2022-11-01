@@ -1,5 +1,5 @@
 <div align="center">
-# H-02 presents
+# H-02 presents.
 made by denis bebeka, violettka, lizok and sushi
 
 <a href="https://github.com/HUID1337" title="Привет как дела"> 
